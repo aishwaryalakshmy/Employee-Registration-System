@@ -120,10 +120,10 @@ employee-registration-system/
 
 ## 🧑‍💻 Author
 
-**Your Name**
+**Aishwarya Lakshmy KS**
 BSc Computer Science – 2nd Year
 Sakthi Sugars Ltd – Project Intern
-📧 [your.email@example.com](mailto:your.email@example.com)
+📧 [aishwaryalakshmy26@gmail.com](mailto:aishwaryalakshmy26@gmail.com)
 
 ---
 
