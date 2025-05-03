@@ -49,7 +49,8 @@ CREATE TABLE `students` (
 
 ## 📸 GUI Preview
 
-> ![App Screenshot](screenshots/screenshot.png)
+> ![App Screenshot](![Screenshot (110)](https://github.com/user-attachments/assets/8eb070d5-3e3c-4ee1-a886-55274318a760)
+)
 > *(Replace this with your actual screenshot image in the repo)*
 
 ---
